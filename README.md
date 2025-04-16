@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Erik Yuzwa / Wazoo
 
-I'm a full stack engineer mostly working in frontend technologies like JavaScript and backend technologies like Ruby on Rails, Java Sprint Boot
+I'm a full stack engineer mostly working in frontend technologies like JavaScript and backend technologies like Ruby on Rails, Java Spring Boot
 and sprinkles of PHP.
 
-I also have a small game development channel on [@ErikYuzwa](https://www.youtube.com/@ErikYuzwa) and another channel
-that is more web development teaching focused at [@WazooWebBytes](https://www.youtube.com/@WazooWebBytes).
+I have a game development channel on [@ErikYuzwa](https://www.youtube.com/@ErikYuzwa) where I play some games, go through game
+development tutorials (using primarily C or C++) and highlight other projects around the web that look interesting.
+
+I also have a channel focused on web development at [@WazooWebBytes](https://www.youtube.com/@WazooWebBytes).
 
 <!--
 **erikyuzwa/erikyuzwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
