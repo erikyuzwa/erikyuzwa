@@ -2,7 +2,8 @@
 
 I'm a full stack engineer at [Wazoo Enterprises Inc](https://wazooinc.com/) mostly working in JavaScript and Ruby on Rails. 
 
-I also have a [blog](https://erikyuzwa.com/) 📝 where I write about game development or other things, and a small [YouTube channel](https://www.youtube.com/channel/UCb4pd5r8O3R1bRqP-HY3q0g).
+I also have a small game development channel on [@ErikYuzwa](https://www.youtube.com/@ErikYuzwa) and another channel
+that is more web development teaching focused at [@WazooWebBytes](https://www.youtube.com/@WazooWebBytes).
 
 <!--
 **erikyuzwa/erikyuzwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
