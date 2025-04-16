@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Erik Yuzwa / Wazoo
 
-I'm a full stack engineer at [Wazoo Enterprises Inc](https://wazooinc.com/) mostly working in JavaScript and Ruby on Rails. 
+I'm a full stack engineer mostly working in frontend technologies like JavaScript and backend technologies like Ruby on Rails, Java Sprint Boot
+and sprinkles of PHP.
 
 I also have a small game development channel on [@ErikYuzwa](https://www.youtube.com/@ErikYuzwa) and another channel
 that is more web development teaching focused at [@WazooWebBytes](https://www.youtube.com/@WazooWebBytes).
